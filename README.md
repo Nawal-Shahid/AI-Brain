@@ -10,6 +10,28 @@ The application follows a modular RAG pipeline:
 PDF Upload -> Text Extraction -> Text Chunking -> Vector Embedding -> FAISS Index -> Similarity Search -> LLM Answer Generation
 ```
 
+---
+
+
+## Application Overview
+<div align="center">
+<img width="1920" height="1080" alt="Overview" src="<img width="1912" height="997" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/5a93712d-6fa9-4770-8392-149f79821e1e" />
+" />
+<br><br>
+
+
+
+**Figure 1.** *AI Study Brain, is a Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions about their content*
+
+
+
+</div>
+
+
+
+---
+
+
 ### Modules
 
 | Module | File | Purpose |
