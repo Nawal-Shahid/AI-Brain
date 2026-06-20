@@ -15,8 +15,8 @@ PDF Upload -> Text Extraction -> Text Chunking -> Vector Embedding -> FAISS Inde
 
 ## Application Overview
 <div align="center">
-<img width="1920" height="1080" alt="Overview" src="<img width="1912" height="997" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/5a93712d-6fa9-4770-8392-149f79821e1e" />
-" />
+<img width="1912" height="997" alt="Study Brain Overview" src="https://github.com/user-attachments/assets/16a419c7-9686-469c-a145-363b906dd28c" />
+
 <br><br>
 
 
